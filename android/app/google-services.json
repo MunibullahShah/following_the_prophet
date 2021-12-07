@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "467179909158",
+    "project_id": "serat-un-nabi",
+    "storage_bucket": "serat-un-nabi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467179909158:android:dc5cbe2a476ec833b3b6e7",
+        "android_client_info": {
+          "package_name": "com.example.following_the_prophet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467179909158-ptrovt74sn58pob5j64omeei0nu7faq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpknAUSuNYpCHeHXOQKeBa04e7VCB6V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467179909158-ptrovt74sn58pob5j64omeei0nu7faq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467179909158:android:dc5b13d27296b245b3b6e7",
+        "android_client_info": {
+          "package_name": "com.example.sirat_nabi_nabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467179909158-ptrovt74sn58pob5j64omeei0nu7faq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpknAUSuNYpCHeHXOQKeBa04e7VCB6V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467179909158-ptrovt74sn58pob5j64omeei0nu7faq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
